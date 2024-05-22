@@ -1,4 +1,4 @@
 # project
 This is my first git repository
 <br>
-Author - Shashidhar
+Author - Shashidhar(Kumata)
